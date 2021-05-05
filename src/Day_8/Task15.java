@@ -16,7 +16,7 @@ public class Task15 {
                 }
             }
             if (len  == count) {
-                System.out.println(numbs[i]);;
+                System.out.println(numbs[i]);
             }
         }
     }

@@ -10,7 +10,7 @@ public class Task16 {
 
             if (numbs[i] == 0) {
                 count0++;
-                if (flag == false) {
+                if (!flag) {
                     index0 = i;
                 }
                 flag = true;
